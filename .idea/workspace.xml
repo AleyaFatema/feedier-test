@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="022acd57-1fa9-4189-9346-baca5a04167c" name="Default" comment="" />
+    <list default="true" id="022acd57-1fa9-4189-9346-baca5a04167c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +31,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
@@ -139,6 +145,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jyXe6bBpsfHAkz19BGSMySGxqC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -185,7 +192,8 @@
       <workItem from="1604777742745" duration="9678000" />
       <workItem from="1604837835863" duration="31672000" />
       <workItem from="1605014347864" duration="18418000" />
-      <workItem from="1605100173378" duration="13254000" />
+      <workItem from="1605100173378" duration="13555000" />
+      <workItem from="1605123423067" duration="301000" />
     </task>
     <servers />
   </component>

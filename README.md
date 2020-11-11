@@ -51,3 +51,14 @@ Route: http://localhost:8000/surveys
 
 ## Test 5:
 Not included
+
+
+## Commands
+composer require laravel/ui 1.*
+php artisan ui:auth
+php artisan migrate
+php artisan presets bootstrap
+npm install && npm run dev
+composer dump-autoload
+php artisan optimize
+
