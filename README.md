@@ -8,7 +8,7 @@
 <li>A mailtrap.io account. Add details to .env file</li>
 </ul>
 
-##.env changes
+## .env changes
 1. APP_NAME="Your app name"
 
 2. DB_DATABASE="Your database name"
